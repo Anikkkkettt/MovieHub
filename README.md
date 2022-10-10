@@ -23,7 +23,7 @@ Not everyone is aware of every tool present in the world no matter how easy or c
 ```html
 <div class="col-lg-4 mb-4">
   <div class="card">
-    <img class="card-img-top" src="[Link to Book image]" alt="" />
+    <img class="card-img-top" src="[Link to Movie image]" alt="" />
     <div class="card-body">
       <h5 class="card-title">[Name of your favourite Movie]</h5>
       <p class="card-text">[Small Description about your Movie]</p>
