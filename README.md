@@ -11,7 +11,7 @@
 There is always something to contribute to a project whether you are a novice or a veteran. In this project, you can add your favourite Movie as a card to the website! Or maybe you didn't like the line that you are reading right now and want to change that. Sure! Why not?
 
 # How can I contribute?
-Kindly refer to [CONTRIBUTING.md](https://github.com/vishaaal/BookCase/blob/master/CONTRIBUTING.md) file to learn how to contribute!
+Kindly refer to [CONTRIBUTING.md](https://github.com/Anikkkkettt/MovieHub/blob/master/Contributing.md) file to learn how to contribute!
 
 And that's it!
 Follow these steps to make your very first pull request.
