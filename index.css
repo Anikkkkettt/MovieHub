@@ -4,7 +4,7 @@ html {
 
 body {
     color: black;
-    font-family: 'Righteous', cursive;
+    font-family: 'Poppins', sans-serif;
     cursor: url(https://cur.cursors-4u.net/user/use-1/use160.cur), auto !important;
 }
 
@@ -24,6 +24,13 @@ title {
     flex-direction: column;
     width: auto;
     height: calc(100vh - 4.45rem);
+}
+
+
+/* Typewriter Font */
+
+#typewriter {
+    font-weight: 600;
 }
 
 
@@ -56,6 +63,10 @@ title {
     display: none;
 }
 
+.btn {
+    font-weight: 500;
+}
+
 .card-img-top {
     padding: 2rem;
 }
@@ -70,6 +81,7 @@ title {
 
 .gallery-head {
     font-size: 3rem;
+    font-weight: 600;
     text-align: center;
     margin-top: 8%;
     margin-bottom: 0px;
@@ -91,6 +103,7 @@ title {
 
 .lead {
     font-size: 1.5rem;
+    font-weight: 500;
     text-align: center;
     margin-bottom: 10%;
 }
@@ -109,6 +122,7 @@ title {
     color: #ffffff;
     padding-left: 50px;
     size: 50px;
+    font-weight: 600;
 }
 
 .view-div {
@@ -161,11 +175,13 @@ title {
 
 .f-brand {
     font-size: 2rem;
+    font-weight: 600;
     color: #fff;
 }
 
 .info {
     color: #6c757d;
+    font-weight: 300;
     width: 80%;
 }
 
@@ -181,6 +197,7 @@ a:hover {
 
 footer h2 {
     font-size: 1.5rem;
+    font-weight: 600;
 }
 
 footer a {
@@ -208,6 +225,7 @@ footer a {
 .f-copyright {
     height: 4rem;
     font-size: 0.9rem;
+    font-weight: 300;
     color: #fff;
     background-color: #000000;
     display: flex;
@@ -301,6 +319,17 @@ footer a {
     }
 }
 
+@media only screen and (max-width: 992px) {
+    .production {
+        display: none;
+    }
+    .footer {
+        display: grid;
+        grid-template-columns: 45% 27% 27%;
+        justify-content: center;
+    }
+}
+
 
 /* Styles for if the screen is taller than it is wide (assumed mobile view) */
 
@@ -311,5 +340,6 @@ footer a {
 }
 
 .card-title {
+    font-weight: 600;
     color: #94000f;
 }
