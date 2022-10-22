@@ -18,7 +18,7 @@ Follow these steps to make your very first pull request.
 
 # But what if I don't know how to add cards?
 
-Not everyone is aware of every tool present in the world no matter how easy or complex it is. It's also not necessary to know each and every tool out there. Use the code sample below to add your own card for your favourite Book!
+Not everyone is aware of every tool present in the world no matter how easy or complex it is. It's also not necessary to know each and every tool out there. Use the code sample below to add your own card for your favourite Movie!
 
 ```html
 <div class="col-lg-4 mb-4">
