@@ -39,6 +39,10 @@ Not everyone is aware of every tool present in the world no matter how easy or c
 
 Copy this code and paste it in the index.html file to make your changes. Test it on your own system and then create a pull request.
 
+> **Note**
+> When adding a new card, prioritize saving your images in the /images folder for performance purposes. Please also use a recommended size of 688x1000 in JPG format.
+
+
 # Congratulations!
 
 Congratulations! You just made your first pull request and if it gets merged, you can view the changes you made live using the link provided above!
